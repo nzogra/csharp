@@ -1,0 +1,9 @@
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.deps.json
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.runtimeconfig.dev.json
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.dll
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.pdb
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.dll
+C:\Users\nomik\Documents\visualstudio\workspace\csharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.pdb
